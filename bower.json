@@ -1,0 +1,14 @@
+{
+  "name": "jekyll-skeleton",
+  "private": true,
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "css/.*",
+    "js/.*"
+  ],
+  "dependencies": {
+    ""
+  }
+}

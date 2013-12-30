@@ -25,6 +25,13 @@ Start jekyll locally and watch for new changes.
 
 $ jekyll server -w
 
+## Create a post using grunt
+
+```
+grunt post:"My awesome next post"
+```
+This will generate a new post file in the _posts directory.
+
 ## Helpful links
 
 Not down with Markdown? Use this guide to get the lowdown on Markdown syntax.

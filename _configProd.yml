@@ -1,0 +1,4 @@
+name: SiteName
+markdown: redcarpet
+pygments: false
+exclude: node_modules, tasks, bower_components, bower.json, Gruntfile.js, README.md, Gemfile*, package.json, bower.json
